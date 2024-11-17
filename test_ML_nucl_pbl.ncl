@@ -2,7 +2,7 @@
 
 begin 
 
-   zm  = fspan(40.,2040.,41) 
+   zm  = fspan(20.,2020.,81) 
    pbl = fspan(40.,1540.,31)  
 
    mzm  = dimsizes(zm) 
